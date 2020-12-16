@@ -10,15 +10,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gatsby/gatsby.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-WIP...
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
+<img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+<img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img alt="Squarespace" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/squarespace.svg" />
 
 <br />
 <br />
