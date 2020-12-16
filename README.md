@@ -10,18 +10,42 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
-<img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
-<img alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-<img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img alt="Squarespace" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/squarespace.svg" />
+<a href="#" title="" align="left">
+    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="Vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+</a>
+<a href="#" title="" align="left">
+    <img alt="Squarespace" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/squarespace.svg" />
+</a>
 
 <br />
 <br />
