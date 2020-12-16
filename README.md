@@ -22,6 +22,7 @@ WIP...
 
 <br />
 <br />
-[website]:http://artemparshakov.com
-[linkedin]:https://linkedin.com/artem-parshakov
-[strava]:https://strava.com/athletes/57816918
+
+[website]: http://artemparshakov.com
+[linkedin]: https://linkedin.com/artem-parshakov
+[strava]: https://strava.com/athletes/57816918
